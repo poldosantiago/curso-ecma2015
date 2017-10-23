@@ -6,3 +6,5 @@ var numero = 1;
 
 }
 console.log('fora = ',numero)
+
+//aweeeeeeeeeee
